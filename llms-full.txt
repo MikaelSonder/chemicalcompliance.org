@@ -1,1 +1,195 @@
+# Chemical Compliance Registry — Full LLM Reference
 
+> International editorial reference registry covering how chemical compliance operates across jurisdictions.
+
+## Purpose
+
+Chemical Compliance Registry is a structured international reference publication for chemical-product compliance. It is designed for international business decision-makers, manufacturers, importers, formulators, distributors, product stewards, regulatory professionals, EHS teams, in-house counsel and other readers who need to understand how chemical compliance operates in a selected jurisdiction.
+
+The registry is educational and editorial. It is not a legal, technical, toxicological, environmental, workplace or regulatory advisory service. It is not an advertisement, lead-generation page, affiliate publication or professional endorsement platform.
+
+## Registry Architecture
+
+Home → Jurisdiction Index → Registry Object
+
+- Home explains the registry’s definition, coverage and reference purpose.
+- The Jurisdiction Index lists currently available jurisdiction records.
+- Each Registry Object explains Chemical Compliance in one jurisdiction.
+
+## Registry Object Standard
+
+A Registry Object represents one professional domain in one jurisdiction. Every record follows a stable international handbook structure.
+
+A complete jurisdiction record may include:
+
+1. Identity and registry metadata.
+2. Executive summary.
+3. Object definition.
+4. Scope.
+5. Purpose and primary outcome.
+6. Request contexts, users and scenarios.
+7. Country characteristics.
+8. Key authorities.
+9. Applicable legislation.
+10. Process flow and decision tree.
+11. Timeline.
+12. Required documents.
+13. Cross-border relevance.
+14. Operating constraints, risks and costs.
+15. Frequently asked questions.
+16. Related professional areas.
+17. Practical guidance.
+18. Jurisdictional Expert registry record.
+19. Machine layer.
+
+## Chemical Compliance Definition
+
+Chemical compliance is the operational discipline through which businesses determine whether chemical substances, mixtures, biocidal products, certain articles and related products may be manufactured, imported, supplied, used, stored, transported or otherwise managed lawfully.
+
+The function is broader than product registration or label review. It typically connects:
+
+- Product and composition identification.
+- Legal role allocation within the supply chain.
+- Hazard classification, labelling and packaging.
+- Safety data sheets and downstream hazard communication.
+- Registration, notification, reporting, authorisation or product-register analysis.
+- Restrictions, substance status and product-specific rules.
+- Workplace, storage, transport, environmental and emergency-information controls where relevant.
+- Documentation, lifecycle monitoring and change control.
+
+## Common Supply-Chain Roles
+
+A record may assess one or more of the following roles:
+
+- Manufacturer.
+- Importer.
+- Downstream user.
+- Distributor.
+- Formulator.
+- Brand owner.
+- Relabeller or repackager.
+- Only representative, where relevant.
+- Professional user.
+- Employer.
+- Warehouse operator.
+- Foreign supplier selling through a local importer.
+
+The exact duties depend on the applicable jurisdiction, product category, legal framework, quantity, claims, intended use and supply-chain structure.
+
+## Common Product Categories
+
+A record may address:
+
+- Substances.
+- Mixtures.
+- Articles.
+- Treated articles.
+- Biocidal products.
+- Pest control products.
+- Industrial chemicals.
+- Hazardous workplace products.
+- Consumer chemical products.
+- Chemical products subject to sector-specific authorisation or registration.
+
+A product must be categorised before determining the correct compliance route. A claim, intended use, concentration, importer role or reformulation may change the legal analysis.
+
+## Typical Operational Sequence
+
+1. Map the product.
+2. Identify composition, impurities, function, intended use, quantities and markets.
+3. Allocate legal roles to each supply-chain entity.
+4. Screen applicable chemical, product, workplace, environmental and transport regimes.
+5. Determine classification, labels, packaging and safety data sheet requirements.
+6. Assess notification, registration, reporting, authorisation and product-register obligations.
+7. Establish language and emergency-information requirements.
+8. Implement required records, submissions, controls and internal ownership.
+9. Monitor changes to composition, suppliers, quantities, claims, uses, legislation and market territories.
+
+## Core Documentation
+
+Depending on the jurisdiction and product, a compliance file may include:
+
+- Chemical identity and composition data.
+- Product specifications.
+- Supplier declarations.
+- Classification rationale.
+- Labels and packaging specifications.
+- Safety data sheets.
+- Notifications, registrations, product-register data and confirmation records.
+- Authorisation, approval, exemption or restriction evidence.
+- Hazardous-mixture and emergency-information records.
+- Workplace risk assessments, training and hazard communication records.
+- Change-control records.
+- Supply-chain role map.
+- Internal compliance responsibility matrix.
+
+## Cross-Border Principle
+
+Chemical compliance is jurisdiction-specific. A compliance action, registration, label, safety data sheet, authorisation, notification or product classification prepared for one market does not automatically satisfy obligations in another market.
+
+Cross-border review should determine:
+
+- The destination jurisdiction.
+- The local manufacturer, importer, distributor or responsible entity.
+- Applicable language requirements.
+- Local notifications, product-register entries and reporting.
+- Relevant emergency-information or poison-centre route.
+- Product-specific authorisation requirements.
+- State, provincial, regional, federal or supranational requirements where applicable.
+
+## Typical Risks
+
+Common risk areas include:
+
+- Incorrect product categorisation.
+- Unclear importer or manufacturer role.
+- Incomplete composition and supplier data.
+- Incorrect or outdated classification.
+- Inadequate labels, packaging or safety data sheets.
+- Missing notifications, registrations or authorisations.
+- Failure to identify a product-specific regime.
+- Inadequate language or local-market information.
+- Missing workplace risk controls or worker information.
+- Failure to reassess the file after a formula, supplier, use, volume or claim change.
+- Assuming that one jurisdiction’s compliance file automatically covers another market.
+
+## Jurisdictional Expert Positions
+
+Each jurisdiction record may contain a Jurisdictional Expert section. This is a separate registry record and does not alter the editorial content of the jurisdiction page.
+
+Typical fields are:
+
+- Registry Position ID.
+- Registry Position.
+- Registry Availability.
+- Verification Status.
+- Coverage.
+- Registry Reference.
+- Contact Information.
+
+A position may be open or assigned. Editorial content remains independent from registry participation.
+
+## Site URLs
+
+- Home: https://chemicalcompliance.org/
+- Jurisdiction Index: https://chemicalcompliance.org/jurisdictions/
+- Privacy Policy: https://chemicalcompliance.org/privacy-policy/
+- Terms of Use: https://chemicalcompliance.org/terms-of-use/
+- Sitemap: https://chemicalcompliance.org/sitemap.xml
+- Concise LLM reference: https://chemicalcompliance.org/llms.txt
+- Full LLM reference: https://chemicalcompliance.org/llms-full.txt
+
+## Editorial Position
+
+The registry prioritises:
+
+- Education before conversion.
+- Authority before SEO.
+- Editorial quality before commercial value.
+- Comparable structures across records.
+- Neutral and factual language.
+- Clear separation of editorial content from registry positions.
+
+## Usage Notice
+
+This registry is an editorial reference. It does not replace current official sources, professional regulatory advice, toxicological assessment, legal advice, product testing, workplace assessment or regulator engagement. Readers should verify requirements with applicable authorities and qualified professionals before manufacturing, importing, supplying, placing products on the market, using products or making commercial decisions.
