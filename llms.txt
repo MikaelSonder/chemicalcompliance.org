@@ -1,1 +1,45 @@
+# Chemical Compliance Registry
 
+> An international editorial reference registry explaining how chemical compliance operates across jurisdictions.
+
+Chemical Compliance Registry is a structured reference publication for international business decision-makers, regulatory professionals, product stewards, importers, manufacturers and distributors.
+
+Each Registry Object covers one professional domain — Chemical Compliance — in one jurisdiction. Records explain the relevant authorities, legal framework, practical processes, documents, operating constraints and cross-border considerations.
+
+## Site Structure
+
+- [Home](https://chemicalcompliance.org/): Registry definition, coverage and purpose.
+- [Jurisdictions](https://chemicalcompliance.org/jurisdictions/): Jurisdiction index.
+- Jurisdiction records: One editorial record per jurisdiction.
+- [Privacy Policy](https://chemicalcompliance.org/privacy-policy/)
+- [Terms of Use](https://chemicalcompliance.org/terms-of-use/)
+
+## Editorial Standard
+
+- Neutral, factual and educational.
+- Not legal, technical, toxicological or regulatory advice.
+- Not a marketing, affiliate or lead-generation publication.
+- Commercial participation does not alter editorial content.
+- Each record uses a stable, comparable handbook structure.
+
+## Registry Object Coverage
+
+Jurisdiction records may address:
+
+- Chemical substances, mixtures, articles, treated articles and chemical products.
+- Chemical-product market access and supply-chain roles.
+- Classification, labelling, packaging and safety data sheets.
+- Authorities, legislation, notifications, registrations and authorisations.
+- Biocidal and product-specific regulatory screening.
+- Workplace chemical-risk and hazard-communication considerations.
+- Required documents, process flow, timeline, constraints, costs and cross-border relevance.
+- Jurisdictional Expert registry positions, maintained separately from editorial content.
+
+## Navigation
+
+Use the jurisdiction index to locate an available jurisdiction record. Individual records are intended to be read as reference chapters and should be used with current official authority information and qualified professional advice where a decision is required.
+
+## Contact and Attribution
+
+Registry brand: Chemical Compliance Registry
+Website: https://chemicalcompliance.org/
